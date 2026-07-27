@@ -236,7 +236,7 @@ Ao mesmo tempo, é importante manter cautela: se a amostra for pequena, os resul
 
 ## Recomendações práticas
 
-### Recomendação 1 — aproveitar dias fortes
+### Recomendação 1: aproveitar dias fortes
 
 Nos dias com maior volume de vendas, vale reforçar estratégias para potencializar o resultado, como:
 
@@ -245,7 +245,7 @@ Nos dias com maior volume de vendas, vale reforçar estratégias para potenciali
 - testar promoções específicas de maior ticket médio;
 - destacar produtos com maior margem.
 
-### Recomendação 2 — desenvolver dias fracos
+### Recomendação 2:  desenvolver dias fracos
 
 Nos dias com menor volume, é possível aplicar ações de estímulo comercial, por exemplo:
 
@@ -260,7 +260,7 @@ A medição do resultado pode ser feita comparando o total de vendas desses dias
 
 ## Como executar no Google Colab
 
-### Opção 1 — abrir o notebook manualmente
+### Opção 1: abrir o notebook manualmente
 
 1. Acesse o [Google Colab](https://colab.research.google.com/).
 2. Faça upload do arquivo `PY-06_EDA_Vendas_Colab.ipynb`.
@@ -269,7 +269,7 @@ A medição do resultado pode ser feita comparando o total de vendas desses dias
 5. Acompanhe as análises, gráficos e interpretações.
 6. Ao final, exporte o arquivo `sales_data_analisado.csv`.
 
-### Opção 2 — abrir a partir do GitHub
+### Opção 2:  abrir a partir do GitHub
 
 1. Publique este projeto em um repositório no GitHub.
 2. No Colab, escolha a aba **GitHub**.
