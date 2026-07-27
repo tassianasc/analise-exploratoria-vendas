@@ -49,6 +49,7 @@ A proposta também desenvolve habilidades práticas com `pandas`, `numpy`, `matp
 
 | Coluna | Descrição |
 |--------|-----------|
+
 | `Sales` | Valor da venda realizada. |
 | `Region` | Região associada ao registro de venda. |
 | `Product` | Produto relacionado à venda. |
@@ -309,6 +310,6 @@ Como continuação da análise, o projeto pode evoluir para:
 
 ## Autor(a)
 
-Projeto acadêmico/prático de análise exploratória de dados em Python, desenvolvido no Google Colab para estudo de EDA, manipulação de dados e comunicação de resultados.
-
-> Dica: ao publicar no GitHub, vale substituir esta seção pelo seu nome, disciplina, turma e data de entrega.
+Tássia Nascimento  
+Rio de Janeiro,RJ, Brasil  
+Projeto prático de análise exploratória de dados em Python, desenvolvido no Google Colab para estudo de EDA, manipulação de dados e comunicação de resultados.
