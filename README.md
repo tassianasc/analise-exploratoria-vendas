@@ -49,7 +49,6 @@ A proposta também desenvolve habilidades práticas com `pandas`, `numpy`, `matp
 
 | Coluna | Descrição |
 |--------|-----------|
-
 | `Sales` | Valor da venda realizada. |
 | `Region` | Região associada ao registro de venda. |
 | `Product` | Produto relacionado à venda. |
