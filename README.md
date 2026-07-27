@@ -289,12 +289,6 @@ A medição do resultado pode ser feita comparando o total de vendas desses dias
 
 ***
 
-## Segurança e privacidade
-
-Este projeto **não deve incluir** senhas, tokens, chaves de API ou qualquer credencial sensível. O arquivo `sales_data.csv` utilizado nesta atividade não contém credenciais, mas a prática de revisar arquivos antes de publicar no GitHub deve ser mantida em qualquer projeto.
-
-***
-
 ## Sugestões de evolução do projeto
 
 Como continuação da análise, o projeto pode evoluir para:
